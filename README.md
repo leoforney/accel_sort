@@ -28,7 +28,7 @@ npm install
 Simply import the `AccelSort` with the following:
 
 ```javascript
-const AccelSort = require("./index");
+const AccelSort = require("accel-sort");
 ```
 
 Within AccelSort, pass it the specified array types and size to their dedicated functions:
