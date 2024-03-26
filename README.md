@@ -1,4 +1,5 @@
 # accel-sort
+[![npm version](https://badge.fury.io/js/accel-sort.svg)](https://badge.fury.io/js/accel-sort)
 
 A high performance sorting library for Javascript. Get up to **70x** speedup when sorting ints and floats
 
