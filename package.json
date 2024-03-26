@@ -1,0 +1,22 @@
+{
+  "name": "accel-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monatheoctocat/my_package.git"
+  },
+  "keywords": [],
+  "author": "Leo Forney <forneyleo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ffi-napi": "^4.0.3",
+    "ref-array-di": "^1.2.2",
+    "ref-napi": "^3.0.3"
+  },
+  "homepage": "https://github.com/monatheoctocat/my_package"
+}
